@@ -1,2 +1,2 @@
 # MySTL
-naive implementation of C++STL by me
+naive implementation of C++STL by Siho Zhang
